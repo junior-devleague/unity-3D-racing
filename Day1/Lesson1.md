@@ -38,3 +38,6 @@
 
   5. Add a 3D sphere to your game, create a new **material** and name it **SphereColor**. Apply the color to the sphere.
   ![](http://i.imgur.com/JqGuox9.png)
+  6. With your **Sphere** selected, navigate to the bottom of **Inspector** and click on **Add Component**
+    - In the search field, type **RigidBody** and select it. This will add the component to your object.
+    - In the **Inspector** window, uncheck **Sphere Collider** then press the **play** button and see what happens??
