@@ -10,3 +10,8 @@ For today's lesson we will be focusing on creating our initial game environment,
   - Rotate the track so that is laying flat in your world. **Hint** rotate on the X-axis.
   - Create a new folder named **"Color Materials"**, create a new material for the track and apply it to track.
   - Change the **Scale** values of the track to **x=1000, y=100, z=1**.
+
+2. Building Walls Around Your Track
+  - Create a new 3D object **Plane** with name **wall**
+  - Rotate the plane on x-axis by **90 degrees**. Position walls around the edge of your quad so that your track is enclosed.
+  - Create materials for your walls and apply them.
