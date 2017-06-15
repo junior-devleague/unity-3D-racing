@@ -22,7 +22,7 @@ Today we will be adding enemy players, enemy navigation, implementing a game men
     - Create a new material and apply to enemy player.
     
  4. Adding Navigation for Enemy Cars.
-  - **Instructors will live code NavBake**
+  - **Instructors will live code NavBake** - refer to Wiki on how to nav bake.
   - With your Enemy player selected, navigate to **inspector** window and click **add Component**. Search for **nav mesh agent** and click ok.
   - **Instructors live-code Nav Script** - refer to wiki in repo for code.
   - Set **destination** on Nav Script to **FinishLine**. This will help the enemy player navigate towards the finish line.
