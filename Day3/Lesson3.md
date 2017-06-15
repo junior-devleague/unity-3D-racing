@@ -40,3 +40,4 @@ Today we will be adding enemy players, enemy navigation, implementing a game men
     - Navigate to **file => build settings**, drag and drop **Scene1 & restart** into window. Then exit settings.
     - Open back up **Scene1** and run your game. Now when you cross the finish line, a game button will appear and start your game over again.
  
+ **END**
