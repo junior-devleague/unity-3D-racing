@@ -36,3 +36,7 @@ Today we will be adding enemy players, enemy navigation, implementing a game men
  
  6. **Stop Here** - instructors live code restart script for button.
  
+ 7. Making the Game Menu Function.
+    - Navigate to **file => build settings**, drag and drop **Scene1 & restart** into window. Then exit settings.
+    - Open back up **Scene1** and run your game. Now when you cross the finish line, a game button will appear and start your game over again.
+ 
