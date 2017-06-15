@@ -6,28 +6,28 @@ This is a single player game with multiple enemy cars to race. You will help the
 
 **Loose Outline** - Adjust Accordingly
   
-  **Day 1**
+  1. **Day 1**
     - Intro to course 
     - Expectations/Rules
-    -Learn Editor UI
+    - Learn Editor UI
     
-  **Day 2**
+ 2. **Day 2**
     - Build Track
     - Build Walls
     - Create Player Object
     - Live Code Player Controls
     - Camera
     
-  **Day 3**
+ 3. **Day 3**
     - Create Enemy Cars
     - Add Finish Line/Live Code Script
     - Nav Mesh Agent for Enemy Movement
     - Restart UI
     
-  **Day 4**
+ 4. **Day 4**
     - Unleash assest store/polishing
     - Bug fixes
     
   
-  **Day 5**
+ 5. **Day 5**
     -Presentations
