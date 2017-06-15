@@ -1,5 +1,7 @@
 # Day 1 Lesson Plan
 
+Today we will be introducing you to Unity and the editor window. By end of day you should be comfortable with using the basic features of the editor. **Instructors**- remind students to bring a USB drive to save their work.
+
 ### Intro to the Unity UI
   1.  **Create a new Unity project**. Navigate to **file -> New Project**. Give your project a name. Upon clicking **"create project"** the game editor window will appear.
   ![](https://github.com/junior-devleague/spring-break-unity/blob/master/Day1/Screenshots/editor.png)
