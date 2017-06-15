@@ -1,6 +1,6 @@
 ### Day 2 Lesson Plan
 
-For today's lesson we will be focusing on creating our initial game environment, and writing scripts for our player movement.
+For today's lesson we will be focusing on creating our initial game environment, writing scripts for our player movement, and setting up our game camera.
 
 ### Getting Started
 
