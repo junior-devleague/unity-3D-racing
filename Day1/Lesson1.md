@@ -44,5 +44,7 @@ Today we will be introducing you to Unity and the editor window. By end of day y
     - In the search field, type **RigidBody** and select it. This will add the component to your object.
     - In the **Inspector** window, uncheck **Sphere Collider** then press the **play** button and see what happens??
     
-  ***Stop when you reach this point***  
+ 7. Add movement to your sphere.
+    - In the **Inspector** window click on **Add Component** and search for **Rigid Body** and click to add this component to your sphere.
+    - **Live Code Move Script** - Instructor refer to wiki page **SphereMove**
     
