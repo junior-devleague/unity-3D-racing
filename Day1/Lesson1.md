@@ -46,5 +46,9 @@ Today we will be introducing you to Unity and the editor window. By end of day y
     
  7. Add movement to your sphere.
     - In the **Inspector** window click on **Add Component** and search for **Rigid Body** and click to add this component to your sphere.
+    - Create a new C# script and name it **Move**
     - **Live Code Move Script** - Instructor refer to wiki page **SphereMove**
+    - Drag and drop **Move** script onto the sphere object.
+    - In the inspector window under the Move script component, change **speed** to 10;
+    - Save game, and click play. To move the sphere use keys **wasd**. Note, make sure gravity is turned on the sphere.
     
