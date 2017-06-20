@@ -52,3 +52,13 @@ Today we will be introducing you to Unity and the editor window. By end of day y
     - In the inspector window under the Move script component, change **speed** to 10;
     - Save game, and click play. To move the sphere use keys **wasd**. Note, make sure gravity is turned on the sphere.
     
+ 8. Making the camera follow the sphere.
+    - create a new script named **camera** 
+    - **Instructor Live Code** - refer to **camera** script in wiki.
+    - Apply script to **Main Character**. Under **Player** option in inspector, click the circle on the right. A new screen will pop up, click on screen and select sphere. This tells the camera who to follow.
+    - Click on the **sphere** and give the sphere a tag of **player**.
+    - Click play and now the camera should move with the player.
+    - Have students move the camera so that its in above the sphere and frontal facing. This will give a good perspective in game view.
+    
+ 9. Rest of class is for the students to explore the UI further and shapes. Suggest that they make walls for their quad and maybe adding spheres to make a sort of obstacle course.
+    
