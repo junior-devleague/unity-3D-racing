@@ -10,6 +10,7 @@ This is a single player game with multiple enemy cars to race. You will help the
     - Intro to course 
     - Expectations/Rules
     - Learn Editor UI
+    - Practice scripting
     
  2. **Day 2**
     - Build Track
