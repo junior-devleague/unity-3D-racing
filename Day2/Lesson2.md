@@ -14,7 +14,7 @@ Download the Unity package attached to this repo. Open up unity and create a new
   - Rotate the track so that is laying flat in your world. **Hint** rotate on the X-axis.
   - Create a new folder named **"Color Materials"**, create a new material for the track and apply it to track.
   - Change the **Scale** values of the track to **x=1000, y=150, z=1**.
-  - Add track lines to your track by selecting from your **project window** under **Sample Scenes => prefabs => ground runway => runway lines.**
+  - Add track lines to your track by selecting from your **project window** under **Sample Scenes => prefabs => ground runway => runway lines.**. Open that up so you can see all the child objects. Click and drag just **ground runway lines** out of the parent object. Now you will conform the runway lines to your quad.
 
 2. Building Walls Around Your Track
   - Create a new 3D object **Plane** with name **wall**
