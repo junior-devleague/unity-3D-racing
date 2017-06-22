@@ -33,11 +33,21 @@ Today we will be adding enemy players, enemy navigation, implementing a game men
     - Navigate to **GameObject => UI => Canvas**. This should add a **canvas** to your hierarchy window. In the same menu, add a **UI Button** and drop and drag button so that its a child element of **Canvas**.
     - Select **button** and in inspector window you should see some cross-hairs. Click on the icon, then press **shift** on your keyboard and look for the icon that will center the button on the UI.
     - Under **button** their is a child element **Text**, click this and change the text so that it says **Restart Game**.
+    
+    **KNOWN ISSUES TO CHECK IF DEBUG LOG NOT SHOWING UP IN CONSOLE**
+      - Script Names must be camelCase and match the object name completely.
+      - Make Collider Body on player object have the a tag of "player".
+      - Make sure that box collider component on finishline object is selected.
+      - Make sure mesh collider component on finishline object is deselected.
+      - Check script for sytax/spelling errors.
  
  6. **Stop Here** - instructors live code restart script for button.
  
  7. Making the Game Menu Function.
     - Navigate to **file => build settings**, drag and drop **Scene1 & restart** into window. Then exit settings.
     - Open back up **Scene1** and run your game. Now when you cross the finish line, a game button will appear and start your game over again.
+    
+    **Note**
+      - After restarting the game, the game lighting will appear to be darker than normal. This is okay, its a bug with the unity editor. When the game is actually built, the lighting issue will not be there.
  
  **END**
